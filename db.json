@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "fullNameEdt": "Hazzaz Durjoy",
+      "emailEdt": "hazzazdurjoy@gmail.com",
+      "mobileNoEdt": "01303176314",
+      "passwordEdt": "hazzazdurjoy",
+      "id": 1
+    },
+    {
+      "fullNameEdt": "Hakuna Matata",
+      "emailEdt": "hakunamatata@gmail.com",
+      "mobileNoEdt": "013542879",
+      "passwordEdt": "hakunamatata",
+      "id": 2
+    },
+    {
+      "fullNameEdt": "AAAA",
+      "emailEdt": "AAAA",
+      "mobileNoEdt": "2222",
+      "passwordEdt": "AAAA",
+      "id": 3
+    },
+    {
+      "fullNameEdt": "Shahariar Shammu",
+      "emailEdt": "shammu@gmail.com",
+      "mobileNoEdt": "01252364712",
+      "passwordEdt": "shammu",
+      "id": 4
+    }
+  ],
+  "directories": [
+    {
+      "platformName": "EDITED",
+      "id": 1
+    },
+    {
+      "platformName": "BAAL",
+      "email": "Baal",
+      "password": "BAAL",
+      "id": 2
+    },
+    {
+      "platformName": "EDITED",
+      "email": "sdfsdf",
+      "password": "12",
+      "confirmPassword": "12",
+      "userId": 1,
+      "userName": "sdfsdf",
+      "id": 3
+    },
+    {
+      "platformName": "Steam",
+      "email": "shammu@gmail.com",
+      "password": "shammu",
+      "confirmPassword": "shammu",
+      "userId": 4,
+      "userName": "Dr.Tom",
+      "id": 4
+    }
+  ]
+}

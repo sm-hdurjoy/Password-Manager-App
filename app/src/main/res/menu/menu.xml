@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/idUpdateItem"
+        android:title="Update Item"/>
+
+    <item android:id="@+id/idDeleteItem"
+        android:title="Delete Item"/>
+
+    <item android:id="@+id/idComingSoon"
+        android:title="Coming Soon"/>
+
+    <item android:id="@+id/idComingSoon2"
+        android:title="Coming Soon"/>
+
+</menu>

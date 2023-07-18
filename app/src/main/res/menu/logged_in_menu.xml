@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/idAddItemLog"
+        android:title="Add Item"/>
+
+    <item android:id="@+id/idDeleteBatchLog"
+        android:title="Delete Batch"/>
+
+    <item android:id="@+id/idChangeTheme"
+        android:title="Change Theme"/>
+
+    <item android:id="@+id/idFilter"
+        android:title="Filter Item"/>
+
+    <item android:id="@+id/idComingSoon3"
+        android:title="Coming Soon"/>
+
+</menu>

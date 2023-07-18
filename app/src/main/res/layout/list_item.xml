@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/platformIcon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_android_black" />
+
+    <TextView
+        android:id="@+id/idTVPlatformNameLogIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/platformIcon"
+        android:layout_toRightOf="@+id/platformIcon"
+        android:maxLines="1"
+        android:text="Platform Name"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/idTVEmailLogIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVPlatformNameLogIn"
+        android:layout_alignStart="@+id/idTVPlatformNameLogIn"
+        android:layout_alignLeft="@+id/idTVPlatformNameLogIn"
+        android:maxLines="1"
+        android:text="Email: "
+        android:textSize="14sp" />
+
+
+
+</RelativeLayout>
